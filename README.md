@@ -1,3 +1,3 @@
 # sewing_machines
 
-http://www.clawges.com/sewing/
+https://blog.treasurie.com/sewing-machine-manuals/
