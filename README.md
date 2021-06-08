@@ -7,3 +7,5 @@ https://www.husqvarnaviking.com/support/
 http://sewing-machines.blogspot.com/2008/08/singer-online-manuals.html     
 https://www.supsew.com/catalogs-diagrams/
 
+http://ismacs.net/singer_sewing_machine_company/manuals/singer-sewing-machine-manuals.html
+

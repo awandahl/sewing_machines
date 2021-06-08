@@ -1,4 +1,4 @@
-Please note special folders for attachments, motors and misc     
+Please note special folders for #attachments, #motors and #misc     
 
 Links to Ismacs.net:     
 [Classes 1-99](http://ismacs.net/singer_sewing_machine_company/model-list/classes-1-99.html)     
