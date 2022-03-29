@@ -1,6 +1,6 @@
 # sewing_machines    
 
-This is a collection of manuals for different sewing machines for my own use and reading. This place will eventually be sorted and better organized. If you have a manual that isn't available here, feel free to send it to me at anders@golonka.se    
+This is a collection of manuals for different old out-of-market sewing machines for my own use and reading. This place will eventually be sorted and better organized. If you have a manual that isn't available here, feel free to send it to me at anders@golonka.se    
 
 My absolute aim is to collect freely available manuals: they shouldn't be under some kind of reasonable copyright, clearly stated or implied, and shouldn't be "stolen" from closed groups where there is a clear statement that the materials shouldn't be shared outside of the group. The same scanned manuals may however be available from different sources with different restrictions on use and reuse.    
 
